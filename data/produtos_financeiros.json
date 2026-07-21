@@ -1,11 +1,11 @@
 [
   {
-    "nome": "Tesouro Selic",
-    "categoria": "renda_fixa",
-    "risco": "baixo",
-    "rentabilidade": "100% da Selic",
-    "aporte_minimo": 30.00,
-    "indicado_para": "Reserva de emergência e iniciantes"
+    "nome": "Criptomoeda",
+    "categoria": "renda_variavel",
+    "risco": "alto",
+    "rentabilidade": "Depende da estratégia adotada",
+    "aporte_minimo": 10.00,
+    "indicado_para": "Perfil de risco arrojado"
   },
   {
     "nome": "CDB Liquidez Diária",
@@ -24,11 +24,11 @@
     "indicado_para": "Quem pode esperar 90 dias (isento de IR)"
   },
   {
-    "nome": "Fundo Multimercado",
+    "nome": "Fundo Imobiliário - FII",
     "categoria": "fundo",
-    "risco": "medio",
-    "rentabilidade": "CDI + 2%",
-    "aporte_minimo": 500.00,
+    "risco": "alto",
+    "rentabilidade": "costuma variar entre 10% e 14% ao ano",
+    "aporte_minimo": 10.00,
     "indicado_para": "Perfil moderado que busca diversificação"
   },
   {
