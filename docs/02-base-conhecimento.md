@@ -148,7 +148,7 @@ Produtos Disponíveis para ensino (data/produtos_financeiros.json):
 
 ```
 Dados do Cliente:
-- Nome: João Silva
+- Nome: André Santos
 - Perfil: Moderado
 - Saldo disponível: R$ 5.000
 - Objetivo: Construir uma carteira diversificada
