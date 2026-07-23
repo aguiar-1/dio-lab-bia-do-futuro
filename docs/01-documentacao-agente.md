@@ -10,12 +10,12 @@ Muitas pessoas não tem o controle de despesas, gerando gastos excessivos e inco
 ### Solução
 > Como o agente resolve esse problema de forma proativa?
 
-Ele detecta gastos acima do esperado e emite um alerta com contexto e projeção, fazendo o acompanhamento nos dias seguintes para analisar se a situação foi corrigida.
+Ele atua acompanhando a rotina financeira do usuário, identificando padrões de gastos, enviando lembretes sobre contas e metas financeiras.
 
 ### Público-Alvo
 > Quem vai usar esse agente?
 
-Pessoas endividadas
+Pessoas que desejam melhorar sua educação financeira e administrar melhor o seu dinheiro.
 
 ---
 
@@ -32,7 +32,7 @@ Educativo e orientativo com exemplos práticos
 ### Tom de Comunicação
 > Formal, informal, técnico, acessível?
 
-Acessível
+Acessível, didático e motivador.
 
 ### Exemplos de Linguagem
 - Saudação: [ex: "Olá! Vamos conferir como estão as suas finanças hoje?"]
