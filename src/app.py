@@ -18,7 +18,7 @@ produtos = json.load(open('./dados/produtos_financeiros.json'))
 contexto = f"""
 CLIENTE: {perfil['nome']},{perfil['idade']} anos, perfil{perfil['perfil_investidor']}
 OBJETIVO: {perfil['objetivo_principal']}
-PATRIMÔNIO: R$ {perfil['patrimonio_total']} | RESERVA: R$ {'reserva_emergencia_atual'}
+PATRIMÔNIO: R$ {perfil['patrimonio_total']} | RESERVA: R$ {perfil['reserva_emergencia_atual']}
 
 TRANSAÇÕES RECENTES:
 {transacoes.to_string(index=False)}
