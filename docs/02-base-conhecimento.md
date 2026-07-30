@@ -31,16 +31,15 @@ O produto fundo multimercado foi substituido pelo fundo imobiliário e o produto
 Podemos injetar diretamente no prompt ou podemos utilizar os arquivos via código, como abaixo:
 ```python
 
-import panda as pd
-import json
- #CSVs
-historico = pd.read_csv('data/historico_atendimento.csv')
-transacoes = pd.read-csv('data/transacoes.csv')
- #JSONs
-with open('data/perfil_investidor.json','r','encoding= 'utf-8') as f:
-   perfil = json.load(f)
-with open('data/produtos_financeiros.json','r','encoding= 'utf-8') as f:
-   produtos = json.load(f)
+import json 
+import streamlit as st
+import pandas as pd
+import requests
+
+perfil = json.load(open('./dados/perfil_investidor.json'))
+transacoes = pd.read_csv('./dados/transacoes.csv')
+historico = pd.read_csv('./dados/historico_atendimento.csv')
+produtos = json.load(open('./dados/produtos_financeiros.json'))
 
 ```
 
