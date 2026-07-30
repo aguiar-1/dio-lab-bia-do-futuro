@@ -1,44 +1,29 @@
 # Pitch (3 minutos)
 
-> [!TIP]
-> Você pode usar alguns slides pra apoiar no seu Pitch e mostrar sua solução na prática.
  
-## Roteiro Sugerido
+## Roteiro 
 
 ### 1. O Problema (30 seg)
-> Qual dor do cliente você resolve?
-
-[Sua descrição aqui]
+A educação financeira ainda é um desafio para grande parte da população. Muitas pessoas têm dificuldade para organizar suas finanças, entender conceitos como orçamento, investimentos e dívidas, além de não saber por onde começar a melhorar sua relação com o dinheiro.
 
 ### 2. A Solução (1 min)
-> Como seu agente resolve esse problema?
-
-[Sua descrição aqui]
+Para resolver esse problema, desenvolvemos um assistente de Inteligência Artificial especializado em educação financeira.
+O assistente conversa com o usuário de forma simples e personalizada, explicando conceitos financeiros em uma linguagem acessível, oferecendo orientações práticas sobre controle de gastos, noções de investimentos, etc.
 
 ### 3. Demonstração (1 min)
-> Mostre o agente funcionando (pode ser gravação de tela)
+Primeiro, o usuário faz perguntas básicas sobre organização financeira, como "Como posso controlar meus gastos?". Em seguida, o assistente apresenta de forma simples e sugere um plano prático para começar.
 
-[Descreva o que será mostrado]
+Depois, mostramos uma segunda interação em que o usuário pergunta sobre investimentos ou reserva de emergência. O assistente responde de maneira educativa, sem incentivar decisões arriscadas e sem qualquer recomendação, utilizando exemplos fáceis de entender e adaptados ao perfil do usuário.
+
+Dessa forma, fica evidente como a IA atua como um educador financeiro disponível a qualquer momento.
 
 ### 4. Diferencial e Impacto (30 seg)
-> Por que essa solução é inovadora e qual é o impacto dela na sociedade?
-
-[Sua descrição aqui]
+O grande diferencial da nossa solução é transformar a educação financeira em uma experiência personalizada, acessível e interativa.
 
 ---
 
-## Checklist do Pitch
 
-- [ ] Duração máxima de 3 minutos
-- [ ] Problema claramente definido
-- [ ] Solução demonstrada na prática
-- [ ] Diferencial explicado
-- [ ] Áudio e vídeo com boa qualidade
 
----
 
-## Link do Vídeo
 
-> Cole aqui o link do seu pitch (YouTube, Loom, Google Drive, etc.)
 
-[Link do vídeo]
