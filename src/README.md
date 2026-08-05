@@ -6,7 +6,7 @@
 ```
 
 ## Código
-O código completo está no arquivo `app.py`.
+O código completo pode ser encontrado no arquivo `app.py`.
 
 
 ## Como Rodar
